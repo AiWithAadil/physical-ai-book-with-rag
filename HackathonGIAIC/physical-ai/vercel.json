@@ -1,6 +1,5 @@
 {
-  "buildCommand": "npm run build",
+  "buildCommand": "npx --yes docusaurus build",
   "outputDirectory": "build",
-  "framework": null,
-  "installCommand": "npm install"
+  "framework": null
 }
